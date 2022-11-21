@@ -8,7 +8,7 @@
 
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyondthefruit&hide=stars,issues,contribs&count_private=true&theme=dracula)]([https://github.com/beyondthefruit](https://github.com/beyondthefruit/)/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beyondthefruit)](https://github.com/beyondthefruit/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beyondthefruit&layout=compact)](https://github.com/beyondthefruit/github-readme-stats)
 
 <!---
 beyondthefruit/beyondthefruit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
