@@ -1,4 +1,4 @@
-- 👋 Hi, I’m (Kevin) (@beyondthefruit) 
+- 👋 Hi, I’m Kevin (@beyondthefruit) 
 - 👀 I’m looking for my first job in tech as I'm a career changer, mostly learning through practice and projects building
 - 🥇 You can find my portfolio here https://kevin-hanard-portfolio.netlify.app/ and discover my story and some of my projects on React Js & Javascript 
 - If you want to have a look at my most recent project, built in collaboration with a software developer https://github.com/julianoiret/playlist-react 
