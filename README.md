@@ -1,3 +1,6 @@
+![Copie de Green Simple Professional LinkedIn Banner](https://user-images.githubusercontent.com/56717791/203874873-b0d50e07-5711-42c6-ba1a-8df073569fb1.png)
+
+
 - 👋 Hi, I’m Kevin (@beyondthefruit) 
 - 👀 I’m looking for my first job in tech as I'm a career changer, mostly learning through practice and projects building
 - 🥇 You can find my portfolio here https://kevin-hanard-portfolio.netlify.app/ and discover my story and some of my projects on React Js & Javascript 
