@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on Javascript, React JS
 - 📫 You can contact me through my LinkedIn: https://www.linkedin.com/in/kevin-hanard-275165a5/
 
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyondthefruit&hide=stars,issues,contribs&count_private=true&theme=dracula)]([https://github.com/beyondthefruit](https://github.com/beyondthefruit)/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beyondthefruit&layout=compact&theme=dracula&hide=scss)](https://github.com/beyondthefruit/github-readme-stats)
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyondthefruit&hide=stars,issues,contribs&count_private=true&theme=dracula)]([https://github.com/beyondthefruit](https://github.com/beyondthefruit/)/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beyondthefruit&layout=compact&theme=dracula&hide=scss)](https://github.com/beyondthefruit/github-readme-stats)
 
 
 
